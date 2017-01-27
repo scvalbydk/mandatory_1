@@ -15,3 +15,6 @@ The page should look like this:
 The text on the page can be found in the materials folder in a file called _exercise_1.txt_, and the image on the page can be found in the same folder.
 
 The html file should have an external Style Sheet (CSS) and in that style sheet you should define that the background color of the whole page should be yellow  
+
+## When you are done, and no later than 23:59 tonight (16/2-2017), you should hand it in by creating a _Pull Request_    
+(you can read a bout pull requests [here](https://github.com/keacore/GitTypicalUseCases/blob/master/pull_request.md))
