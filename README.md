@@ -1,7 +1,6 @@
 # Mandatory Assignment 1
-## Description ....
 
-This assignment is simple. You should create a Web Application that is build with the basic features in ASP.NET Core, like the one we did at in the first class [#1](https://github.com/keacore?utf8=%E2%9C%93&q=01&type=&language=)     
+This assignment is simple. You should create a Web Application that is build with the basic features in ASP.NET Core, like the one we did at in the first class [#1](https://github.com/keacore/01_code_from_teachings)     
 
 The web application should have **1 html page** that is served at the url http://localhost:5000.    
 The page should look like this:
